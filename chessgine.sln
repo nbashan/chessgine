@@ -1,25 +1,34 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30804.86
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess3d", "chess3d/Chess3d.csproj", "{04EBE779-1EF7-4900-C754-01EDA59B11EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGine", "ChessGine\ChessGine.csproj", "{09F1F02C-D6EC-41AF-9876-1C68B23D8713}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{04EBE779-1EF7-4900-C754-01EDA59B11EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04EBE779-1EF7-4900-C754-01EDA59B11EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04EBE779-1EF7-4900-C754-01EDA59B11EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04EBE779-1EF7-4900-C754-01EDA59B11EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {53CB8234-75C3-4546-BF61-261493FCF225}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Debug|x64.Build.0 = Debug|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Debug|x86.Build.0 = Debug|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Release|x64.ActiveCfg = Release|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Release|x64.Build.0 = Release|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Release|x86.ActiveCfg = Release|Any CPU
+		{09F1F02C-D6EC-41AF-9876-1C68B23D8713}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
